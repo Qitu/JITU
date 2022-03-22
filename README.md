@@ -12,7 +12,7 @@ JITU校园电商平台创立并运营于UKM校区，为校内教师、学生提�
 开发上，网站使用了Laravel 以及边学边用的Vue实现单页面SAP店铺系统，页面的CSS设计及动画交互全自写，前后端分离设计。
 APP使用APICloud平台编写
 
-![JITU](https://github.com/Qitu/JITU/blob/master/previewSimple.png)    
+![Preview](https://i.ibb.co/ZB8KDff/preview-Simple.png)    
 
 项目已全部开源，部分资源使用了阿里云OSS，如需使用请自行修改配置
 
